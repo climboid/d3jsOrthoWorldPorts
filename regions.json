@@ -1,0 +1,41 @@
+{
+ "caribbean": {
+   "name": "Carribean",
+   "centroid": 43
+ },
+ "great-eastern": {
+   "name": "Great Eastern Cruises"
+ },
+ "indian-ocean": {
+   "name": "Indian Ocean",
+   "centroid": 143
+ },
+ "mediterranean": {
+   "name": "Mediterranean",
+   "centroid": 61
+ },
+ "north-europe": {
+   "name": "North Europe",
+   "centroid": 53
+ },
+ "pacific-asia": {
+   "name": "Pacific Asia",
+   "centroid": 150
+ },
+ "persian-gulf": {
+   "name": "Persian Gulf",
+   "centroid": 128
+ },
+ "round-world": {
+   "name": "World Cruises",
+   "centroid": -2
+ },
+ "south-america": {
+   "name": "South America",
+   "centroid": 17
+ },
+ "transatlantic": {
+   "name": "Transatlantik Cruises",
+   "centroid": -1
+ }
+}

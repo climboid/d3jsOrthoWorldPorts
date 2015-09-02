@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+h1 {
+  position: absolute;
+  top: 280px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  width: 960px;
+}
+
+canvas{
+  position: fixed;
+  z-index: -1;
+  top:0;
+  left: 0;
+}
+
+</style>
+<h1 style="display:none"></h1>
+<h2>hello world</h2>
+<div id="mapContainer"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.js"></script>
+<script>
+
+  window.onresize = resize;
+
+  function resize() {
+    var node = document.getElementById('mapContainer');
+    while (node.hasChildNodes()) {
+        node.removeChild(node.firstChild);
+    };
+
+    makeMap();
+  }
+
+  function getScale() {
+    var w = window.innerWidth;
+    if (w < 2000) {
+      return window.innerWidth;
+    } else {
+      return window.innerWidth - 1000;
+    }
+  }
+
+  function makeMap() {
+    var width = window.innerWidth,
+        height = window.innerHeight;
+
+    var projection = d3.geo.orthographic()
+        .scale(500)
+        .translate([width/2, height/2])
+        .clipAngle(90);
+
+    var canvas = d3.select("#mapContainer").append("canvas")
+        .attr("width", width)
+        .attr("height", height);
+
+    var c = canvas.node().getContext("2d");
+
+    var path = d3.geo.path()
+        .projection(projection)
+        .context(c);
+
+    var title = d3.select("h1");
+
+    queue()
+        .defer(d3.json, "world-110m.json")
+        .defer(d3.tsv, "world-country-names.tsv")
+        .defer(d3.json, "ports.geojson")
+        .await(ready);
+
+    function ready(error, world, names, ports) {
+      // console.log('world.objects.land)', world.objects.land);
+      // console.log('world.objects.countries', world.objects.countries);
+      // console.log('ports', ports);
+      if (error) throw error;
+
+
+      var globe = {type: "Sphere"},
+          land = topojson.feature(world, world.objects.land),
+          countries = topojson.feature(world, world.objects.countries).features,
+          borders = topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }),
+          
+          i = 20, // i needs to be the centroid of the region
+          n = countries.length;
+
+      
+
+      countries = countries.filter(function(d) {
+        return names.some(function(n, index) {
+          if (d.id == n.id) return d.name = n.name;
+        });
+      }).sort(function(a, b) {
+        return a.name.localeCompare(b.name);
+      });
+
+      //
+      // list out all the countries to find the index
+      // of the country that matches the best region
+      // centroid
+      //
+
+
+
+      function drawPorts() {
+        //console.log('path', path)
+        for (var j=0; j<ports.features.length; j++) {
+          //console.log(countries[j],j)
+
+          // console.log(ports.features[j])
+          
+          // var radius = .5;
+
+          //c.beginPath();
+          // var x = ports.features[j].geometry.coordinates[0];
+          // var y = ports.features[j].geometry.coordinates[1];
+          // var prj = projection([x,y]);
+          // c.arc(prj[0], prj[1], radius, 0, 2 * Math.PI, false);
+          // c.fillStyle = 'green';
+          // c.fill();
+          // c.lineWidth = .5;
+          // c.strokeStyle = '#003300';
+          // c.stroke();
+
+          c.fillStyle = "green", c.lineWidth = .1, c.beginPath(), path(ports.features[j]), c.fill();
+        }
+      }
+
+      function transition() {
+        d3.transition()
+            .duration(1250)
+            .each("start", function() {
+              // console.log(i,n,(i) % n, countries[(i) % n])
+              // console.log(countries[i = (i) % n])
+              title.text(countries[i].name);
+            })
+            .tween("rotate", function() {
+              var p = d3.geo.centroid(countries[i]);
+              var r = d3.interpolate(projection.rotate(), [-p[0], -p[1]]);
+
+              return function(t) {
+                // console.log("r", r);
+                //console.log(ports.features[i]);
+                // console.log('land', land);
+                projection.rotate(r(t));
+                c.clearRect(0, 0, width, height);
+
+                c.fillStyle = "#1073b7", c.beginPath(), path(globe), c.fill();
+
+                c.fillStyle = "#bbb", c.beginPath(), path(land), c.fill();
+
+                // c.fillStyle = "#1073b7", c.beginPath(), path(countries[i]), c.fill();
+
+                c.strokeStyle = "#fff", c.lineWidth = .5, c.beginPath(), path(borders), c.stroke();
+                drawPorts();
+                // c.strokeStyle = "#fff", c.lineWidth = 1, c.beginPath(), path(globe), c.stroke();
+                
+              };
+            })
+          .transition();
+      };
+
+      transition();
+
+    }
+  }
+
+  makeMap();
+
+</script>

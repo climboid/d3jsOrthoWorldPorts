@@ -1,0 +1,2837 @@
+[
+  {
+    "id": "ACE",
+    "lat": "28.9595",
+    "lon": "-13.547",
+    "regions": [
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Lanzarote",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "ADR",
+    "lat": "-23.01122",
+    "lon": "-44.31593",
+    "regions": [],
+    "name": "Ilha do Maia (Angra Dos Reis)",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "AES",
+    "lat": "62.46939",
+    "lon": "6.15369",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Alesund",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "AEY",
+    "lat": "65.68333",
+    "lon": "-18.1",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Akureyri",
+    "countryID": "IS",
+    "countryName": "Iceland"
+  },
+  {
+    "id": "AGP",
+    "lat": "36.7147",
+    "lon": "-4.419",
+    "regions": [
+      "mediterranean",
+      "north-europe",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Malaga",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "AJA",
+    "lat": "41.922461",
+    "lon": "8.742027",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Corsica / Ajaccio",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "AKL",
+    "lat": "-36.84845",
+    "lon": "174.76333",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Auckland",
+    "countryID": "NZ",
+    "countryName": "New Zealand"
+  },
+  {
+    "id": "ALY",
+    "lat": "31.184",
+    "lon": "29.8685",
+    "regions": [
+      "greateasterncruises",
+      "round-world"
+    ],
+    "name": "Alexandria",
+    "countryID": "EG",
+    "countryName": "Egypt"
+  },
+  {
+    "id": "AMC",
+    "lat": "19.8",
+    "lon": "-70.6833",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Puerto Plata/Amber Cove",
+    "countryID": "DO",
+    "countryName": "Dominican Republic"
+  },
+  {
+    "id": "AMS",
+    "lat": "52.378383",
+    "lon": "4.908636",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Amsterdam",
+    "countryID": "NL",
+    "countryName": "Netherlands"
+  },
+  {
+    "id": "AND",
+    "lat": "62.568124",
+    "lon": "7.693176",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Andalsnes",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "ANU",
+    "lat": "17.1117",
+    "lon": "-61.843",
+    "regions": [
+      "caribbean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Antigua",
+    "countryID": "AG",
+    "countryName": "Antigua And Barbuda"
+  },
+  {
+    "id": "AOI",
+    "lat": "43.61582",
+    "lon": "13.51891",
+    "regions": [
+      "greateasterncruises",
+      "transatlantic"
+    ],
+    "name": "Ancona",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "AQJ",
+    "lat": "29.515326",
+    "lon": "34.995618",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Aqaba",
+    "countryID": "JO",
+    "countryName": "Jordan"
+  },
+  {
+    "id": "ARH",
+    "lat": "56.16294",
+    "lon": "10.20392",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Aarhus",
+    "countryID": "DK",
+    "countryName": "Denmark"
+  },
+  {
+    "id": "ASH",
+    "lat": "31.8043",
+    "lon": "34.6553",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Ashdod",
+    "countryID": "IL",
+    "countryName": "Israel"
+  },
+  {
+    "id": "ATH",
+    "lat": "37.9425",
+    "lon": "23.62527",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Athen / Piraeus",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "AUA",
+    "lat": "12.52154",
+    "lon": "-70.0444",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Aruba",
+    "countryID": "AW",
+    "countryName": "Aruba"
+  },
+  {
+    "id": "AUH",
+    "lat": "24.4763",
+    "lon": "54.3705",
+    "regions": [
+      "persian-gulf"
+    ],
+    "name": "Abu Dhabi",
+    "countryID": "AE",
+    "countryName": "United Arab Emirates"
+  },
+  {
+    "id": "BAS",
+    "lat": "17.3026058",
+    "lon": "-74.0059731",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Basseterre",
+    "countryID": "KN",
+    "countryName": "Saint Kitts And Nevis"
+  },
+  {
+    "id": "BCN",
+    "lat": "41.3879",
+    "lon": "2.16992",
+    "regions": [
+      "mediterranean",
+      "north-europe",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Barcelona",
+    "countryID": "P0P",
+    "countryName": null
+  },
+  {
+    "id": "BGI",
+    "lat": "13.0904",
+    "lon": "-59.606",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Barbados",
+    "countryID": "BB",
+    "countryName": "Barbados"
+  },
+  {
+    "id": "BGO",
+    "lat": "60.38624",
+    "lon": "5.30637",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Bergen",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "BIO",
+    "lat": "43.2569",
+    "lon": "-2.9234",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Bilbao",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "BKI",
+    "lat": "5.9804",
+    "lon": "116.07345",
+    "regions": [
+      "pacific-asia"
+    ],
+    "name": "Kota Kinabalu/Borneo",
+    "countryID": "MY",
+    "countryName": "Malaysia"
+  },
+  {
+    "id": "BOB",
+    "lat": "-16.50041",
+    "lon": "-151.74149",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Bora Bora",
+    "countryID": "Polynesia",
+    "countryName": null
+  },
+  {
+    "id": "BOC",
+    "lat": "11.96735",
+    "lon": "121.92475",
+    "regions": [
+      "pacific-asia"
+    ],
+    "name": "Boracay",
+    "countryID": "PH",
+    "countryName": "Philippines"
+  },
+  {
+    "id": "BOD",
+    "lat": "67.28035",
+    "lon": "14.40491",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "BodÃ¸",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "BOJ",
+    "lat": "42.50479",
+    "lon": "27.46263",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Burgas",
+    "countryID": "BG",
+    "countryName": "Bulgaria"
+  },
+  {
+    "id": "BOM",
+    "lat": "18.930432",
+    "lon": "72.844087",
+    "regions": [
+      "greateasterncruises",
+      "persian-gulf",
+      "round-world"
+    ],
+    "name": "Mumbai",
+    "countryID": "IN",
+    "countryName": "India"
+  },
+  {
+    "id": "BOR",
+    "lat": "44.83778",
+    "lon": "-0.57917",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Bordeaux",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "BRI",
+    "lat": "41.1248836",
+    "lon": "16.8598938",
+    "regions": [
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Bari",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "BUE",
+    "lat": "-34.595902",
+    "lon": "-58.36828",
+    "regions": [
+      "mediterranean",
+      "round-world",
+      "south-america",
+      "transatlantic"
+    ],
+    "name": "Buenos Aires",
+    "countryID": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "id": "BUZ",
+    "lat": "-22.754155",
+    "lon": "-41.886813",
+    "regions": [],
+    "name": "Buzios",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "BWN",
+    "lat": "4.89027",
+    "lon": "114.94222",
+    "regions": [
+      "pacific-asia"
+    ],
+    "name": "Bandar Seri Begawan Brunei",
+    "countryID": "BN",
+    "countryName": "Brunei Darussalam"
+  },
+  {
+    "id": "BZE",
+    "lat": "17.4976",
+    "lon": "-88.186",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Belize",
+    "countryID": "BZ",
+    "countryName": "Belize"
+  },
+  {
+    "id": "CAD",
+    "lat": "36.535",
+    "lon": "-6.29",
+    "regions": [
+      "mediterranean",
+      "north-europe",
+      "transatlantic"
+    ],
+    "name": "CÃ¡diz",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "CAG",
+    "lat": "39.22384",
+    "lon": "9.12166",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Cagliari",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "CAS",
+    "lat": "33.60186",
+    "lon": "-7.616438",
+    "regions": [
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Casablanca",
+    "countryID": "MA",
+    "countryName": "Morocco"
+  },
+  {
+    "id": "CAT",
+    "lat": "18.3541",
+    "lon": "-69.0076",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Catalina Iceland",
+    "countryID": "DO",
+    "countryName": "Dominican Republic"
+  },
+  {
+    "id": "CER",
+    "lat": "49.63909",
+    "lon": "-1.62529",
+    "regions": [
+      "mediterranean",
+      "north-europe"
+    ],
+    "name": "Cherbourg",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "CFU",
+    "lat": "39.60568818",
+    "lon": "19.84954834",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Korfu",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "CIV",
+    "lat": "42.0911",
+    "lon": "11.7968",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Rom / Civitavecchia",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "COK",
+    "lat": "9.954263",
+    "lon": "76.266671",
+    "regions": [
+      "greateasterncruises",
+      "persian-gulf",
+      "round-world"
+    ],
+    "name": "Kochin",
+    "countryID": "IN",
+    "countryName": "India"
+  },
+  {
+    "id": "COL",
+    "lat": "6.941353",
+    "lon": "79.844819",
+    "regions": [
+      "persian-gulf",
+      "round-world"
+    ],
+    "name": "Colombo",
+    "countryID": "LK",
+    "countryName": "Sri Lanka"
+  },
+  {
+    "id": "COS",
+    "lat": "44.17333",
+    "lon": "28.63833",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Konstanza",
+    "countryID": "RO",
+    "countryName": "Romania"
+  },
+  {
+    "id": "CPH",
+    "lat": "55.7028",
+    "lon": "12.601",
+    "regions": [
+      "mediterranean",
+      "north-europe"
+    ],
+    "name": "Kopenhagen",
+    "countryID": "DK",
+    "countryName": "Denmark"
+  },
+  {
+    "id": "CPR",
+    "lat": "40.5532",
+    "lon": "14.22215",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Capri",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "CRC",
+    "lat": "39.59418",
+    "lon": "16.52010",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Corigliano Calabro",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "CRG",
+    "lat": "37.6",
+    "lon": "-0.983333",
+    "regions": [],
+    "name": "Cartagena",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "CSC",
+    "lat": "22.89053",
+    "lon": "-109.91673",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Cabo San Lucas",
+    "countryID": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "CTA",
+    "lat": "37.5083",
+    "lon": "15.0723",
+    "regions": [
+      "mediterranean",
+      "round-world"
+    ],
+    "name": "Sizilien/Catania",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "CTG",
+    "lat": "10.4119",
+    "lon": "-75.53",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Cartagena",
+    "countryID": "CO",
+    "countryName": "Colombia"
+  },
+  {
+    "id": "CZM",
+    "lat": "20.51",
+    "lon": "-86.948",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Cozumel",
+    "countryID": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "DAD",
+    "lat": "16.05440",
+    "lon": "108.20216",
+    "regions": [
+      "pacific-asia"
+    ],
+    "name": "Da Nang",
+    "countryID": "VN",
+    "countryName": "Viet Nam"
+  },
+  {
+    "id": "DBV",
+    "lat": "42.64456622",
+    "lon": "18.10667038",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Dubrovnik",
+    "countryID": "HR",
+    "countryName": "Croatia"
+  },
+  {
+    "id": "DIE",
+    "lat": "-12.32313",
+    "lon": "49.29428",
+    "regions": [
+      "greateasterncruises",
+      "indian-ocean",
+      "mediterranean"
+    ],
+    "name": "Diego Suarez/Antsiranana",
+    "countryID": "MG",
+    "countryName": "Madagascar"
+  },
+  {
+    "id": "DOV",
+    "lat": "51.124529",
+    "lon": "1.336309",
+    "regions": [
+      "north-europe",
+      "transatlantic"
+    ],
+    "name": "London / Dover",
+    "countryID": "GB",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "DXB",
+    "lat": "25.271",
+    "lon": "55.3075",
+    "regions": [
+      "greateasterncruises",
+      "persian-gulf",
+      "round-world"
+    ],
+    "name": "Dubai",
+    "countryID": "AE",
+    "countryName": "United Arab Emirates"
+  },
+  {
+    "id": "EFL",
+    "lat": "38.18109",
+    "lon": "20.48903",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Argostoli Kefallina",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "EIL",
+    "lat": "29.55135856",
+    "lon": "34.96810913",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Eilat",
+    "countryID": "IL",
+    "countryName": "Israel"
+  },
+  {
+    "id": "EYW",
+    "lat": "24.678467",
+    "lon": "-81.783142",
+    "regions": [],
+    "name": "Key West",
+    "countryID": "US",
+    "countryName": "United States"
+  },
+  {
+    "id": "FDF",
+    "lat": "14.60617607",
+    "lon": "-61.07299805",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Martinique",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "FLA",
+    "lat": "60.8611",
+    "lon": "7.1154",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "FlÃ¥m",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "FLL",
+    "lat": "26.09371",
+    "lon": "-80.13466",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Fort Lauderdale",
+    "countryID": "US",
+    "countryName": "United States"
+  },
+  {
+    "id": "FNC",
+    "lat": "32.64201293",
+    "lon": "-16.91197157",
+    "regions": [
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Madeira",
+    "countryID": "PT",
+    "countryName": "Portugal"
+  },
+  {
+    "id": "FPO",
+    "lat": "26.52964",
+    "lon": "-78.65451",
+    "regions": [
+      "caribbean"
+    ],
+    "name": "Freeport",
+    "countryID": "BS",
+    "countryName": "Bahamas"
+  },
+  {
+    "id": "FUE",
+    "lat": "28.4964",
+    "lon": "-13.862",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Fuerteventura",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "FUJ",
+    "lat": "25.314",
+    "lon": "56.43",
+    "regions": [
+      "persian-gulf"
+    ],
+    "name": "Fujairah",
+    "countryID": "AE",
+    "countryName": "United Arab Emirates"
+  },
+  {
+    "id": "GCM",
+    "lat": "19.372045",
+    "lon": "-81.271105",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Grand Cayman",
+    "countryID": "KY",
+    "countryName": "Cayman Islands"
+  },
+  {
+    "id": "GDN",
+    "lat": "54.5179",
+    "lon": "18.55975",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Danzig / Gdingen",
+    "countryID": "PL",
+    "countryName": "Poland"
+  },
+  {
+    "id": "GEI",
+    "lat": "62.094444",
+    "lon": "7.080556",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Geiranger Fjord",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "GIB",
+    "lat": "36.14075",
+    "lon": "-5.35358",
+    "regions": [
+      "north-europe",
+      "transatlantic"
+    ],
+    "name": "Gibraltar",
+    "countryID": "GI",
+    "countryName": "Gibraltar"
+  },
+  {
+    "id": "GND",
+    "lat": "12.0595",
+    "lon": "-61.744",
+    "regions": [
+      "caribbean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Grenada",
+    "countryID": "GD",
+    "countryName": "Grenada"
+  },
+  {
+    "id": "GOA",
+    "lat": "44.40268",
+    "lon": "8.91003",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Genua",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "GOI",
+    "lat": "15.29932",
+    "lon": "74.12399",
+    "regions": [
+      "persian-gulf",
+      "round-world"
+    ],
+    "name": "Goa",
+    "countryID": "IN",
+    "countryName": "India"
+  },
+  {
+    "id": "GRU",
+    "lat": "64.92467",
+    "lon": "-23.26041",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Grundafjord",
+    "countryID": "IS",
+    "countryName": "Iceland"
+  },
+  {
+    "id": "GTU",
+    "lat": "21.4602",
+    "lon": "-71.14",
+    "regions": [
+      "transatlantic"
+    ],
+    "name": "Grand Turks",
+    "countryID": "TC",
+    "countryName": "Turks And Caicos Islands"
+  },
+  {
+    "id": "HAM",
+    "lat": "53.54252",
+    "lon": "9.93566",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Hamburg",
+    "countryID": "DE",
+    "countryName": "Germany"
+  },
+  {
+    "id": "HAU",
+    "lat": "59.41358",
+    "lon": "5.26798",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Haugesund",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "HEL",
+    "lat": "60.15464",
+    "lon": "24.94975",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Helsinki",
+    "countryID": "FI",
+    "countryName": "Finland"
+  },
+  {
+    "id": "HER",
+    "lat": "35.3445",
+    "lon": "25.145",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Kreta",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "HES",
+    "lat": "62.0848",
+    "lon": "6.87255",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Hellesylt / Geirangerfjord",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "HKG",
+    "lat": "114.1",
+    "lon": "22.17",
+    "regions": [
+      "greateasterncruises",
+      "pacific-asia"
+    ],
+    "name": "Hongkong",
+    "countryID": "CN",
+    "countryName": "China"
+  },
+  {
+    "id": "HKT",
+    "lat": "7.98104",
+    "lon": "98.36388",
+    "regions": [
+      "pacific-asia",
+      "round-world"
+    ],
+    "name": "Phuket",
+    "countryID": "TH",
+    "countryName": "Thailand"
+  },
+  {
+    "id": "HMM",
+    "lat": "36.4",
+    "lon": "10.61666",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Hammamet",
+    "countryID": "TN",
+    "countryName": "Tunisia"
+  },
+  {
+    "id": "HNL",
+    "lat": "21.30694",
+    "lon": "-157.85833",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Honolulu",
+    "countryID": "US",
+    "countryName": "United States"
+  },
+  {
+    "id": "HVG",
+    "lat": "70.98102",
+    "lon": "25.96903",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Nordkap / Honningsvag",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "HWH",
+    "lat": "51.936063",
+    "lon": "1.260238",
+    "regions": [
+      "mediterranean",
+      "north-europe"
+    ],
+    "name": "London / Harwich",
+    "countryID": "GB",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "IBZ",
+    "lat": "38.9115",
+    "lon": "1.44577",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Ibiza",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "IGE",
+    "lat": "-23.135705",
+    "lon": "-44.162035",
+    "regions": [],
+    "name": "Ilha Grande / Angra Dos Reis",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "ILB",
+    "lat": "-23.774084",
+    "lon": "-45.354835",
+    "regions": [
+      "south-america"
+    ],
+    "name": "Ilhabela",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "ILH",
+    "lat": "-14.784426",
+    "lon": "-39.031763",
+    "regions": [
+      "south-america",
+      "transatlantic"
+    ],
+    "name": "IlhÃ©us",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "INV",
+    "lat": "57.68069",
+    "lon": "-4.17194",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Invergordon",
+    "countryID": "GB",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "IPC",
+    "lat": "-27.12119",
+    "lon": "-109.36642",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Osterinseln",
+    "countryID": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "id": "ISA",
+    "lat": "66.07516674",
+    "lon": "-23.13222885",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Isafjord",
+    "countryID": "IS",
+    "countryName": "Iceland"
+  },
+  {
+    "id": "IST",
+    "lat": "40.99997",
+    "lon": "28.95476",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Istanbul",
+    "countryID": "TR",
+    "countryName": "Turkey"
+  },
+  {
+    "id": "IZM",
+    "lat": "38.446",
+    "lon": "27.161",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean"
+    ],
+    "name": "Izmir",
+    "countryID": "TR",
+    "countryName": "Turkey"
+  },
+  {
+    "id": "JMK",
+    "lat": "37.44935",
+    "lon": "25.3267",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Mykonos",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "JTR",
+    "lat": "36.40671",
+    "lon": "25.4282",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Santorin",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "KAT",
+    "lat": "37.6447",
+    "lon": "21.3235",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean"
+    ],
+    "name": "Katakolon",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "KEL",
+    "lat": "54.31994",
+    "lon": "10.141046",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Kiel",
+    "countryID": "DE",
+    "countryName": "Germany"
+  },
+  {
+    "id": "KHS",
+    "lat": "26.1833",
+    "lon": "56.25",
+    "regions": [
+      "greateasterncruises",
+      "persian-gulf"
+    ],
+    "name": "Khasab",
+    "countryID": "OM",
+    "countryName": "Oman"
+  },
+  {
+    "id": "KID",
+    "lat": "58.1509",
+    "lon": "7.9961",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Kristiansand",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "KIN",
+    "lat": "13.1917",
+    "lon": "-61.269",
+    "regions": [
+      "caribbean"
+    ],
+    "name": "Kingstown",
+    "countryID": "VC",
+    "countryName": "Saint Vincent And The Grenadines"
+  },
+  {
+    "id": "KLA",
+    "lat": "55.7126",
+    "lon": "21.1352",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Klaipeda",
+    "countryID": "LT",
+    "countryName": "Lithuania"
+  },
+  {
+    "id": "KLF",
+    "lat": "25.336114",
+    "lon": "56.35005",
+    "regions": [
+      "greateasterncruises",
+      "persian-gulf",
+      "transatlantic"
+    ],
+    "name": "Khor Fakkan",
+    "countryID": "AE",
+    "countryName": "United Arab Emirates"
+  },
+  {
+    "id": "KLX",
+    "lat": "37.0374547",
+    "lon": "22.1133899",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean"
+    ],
+    "name": "Kalamata",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "KOI",
+    "lat": "58.9846",
+    "lon": "-2.9622",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Kirkwall/Orkney-Inseln",
+    "countryID": "GB",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "KOT",
+    "lat": "42.4246",
+    "lon": "18.7712",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Kotor",
+    "countryID": "ME",
+    "countryName": "Montenegro"
+  },
+  {
+    "id": "KST",
+    "lat": "63.11034",
+    "lon": "7.72808",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Kristiansund",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "LAC",
+    "lat": "43.36855",
+    "lon": "-8.38393",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "La Coruna",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "LAX",
+    "lat": "34.05223",
+    "lon": "-118.24368",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Los Angeles",
+    "countryID": "US",
+    "countryName": "United States"
+  },
+  {
+    "id": "LEH",
+    "lat": "49.4835",
+    "lon": "0.1065",
+    "regions": [
+      "north-europe",
+      "transatlantic"
+    ],
+    "name": "Paris / Le Havre",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "LEX",
+    "lat": "41.15384236",
+    "lon": "-8.646240234",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Leixoes",
+    "countryID": "PT",
+    "countryName": "Portugal"
+  },
+  {
+    "id": "LGK",
+    "lat": "6.322635132",
+    "lon": "99.85490799",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Langkawi",
+    "countryID": "MY",
+    "countryName": "Malaysia"
+  },
+  {
+    "id": "LIS",
+    "lat": "38.706",
+    "lon": "-9.1348",
+    "regions": [
+      "mediterranean",
+      "north-europe",
+      "transatlantic"
+    ],
+    "name": "Lissabon",
+    "countryID": "PT",
+    "countryName": "Portugal"
+  },
+  {
+    "id": "LIV",
+    "lat": "43.5518",
+    "lon": "10.308",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Livorno",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "LKN",
+    "lat": "68.1465",
+    "lon": "13.60963",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Leknes / Lofoten",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "LMO",
+    "lat": "9.98684",
+    "lon": "-83.039",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Costa Rica",
+    "countryID": "CR",
+    "countryName": "Costa Rica"
+  },
+  {
+    "id": "LMS",
+    "lat": "34.64533",
+    "lon": "33.01",
+    "regions": [
+      "greateasterncruises",
+      "transatlantic"
+    ],
+    "name": "Limassol",
+    "countryID": "CY",
+    "countryName": "Cyprus"
+  },
+  {
+    "id": "LPA",
+    "lat": "28.1248",
+    "lon": "-15.43",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Gran Canaria",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "LRM",
+    "lat": "18.4249",
+    "lon": "-68.967",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "La Romana",
+    "countryID": "DO",
+    "countryName": "Dominican Republic"
+  },
+  {
+    "id": "LSP",
+    "lat": "44.10245",
+    "lon": "9.82408",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "La Spezia",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "LWK",
+    "lat": "60.154663",
+    "lon": "-1.141269",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Shetland Inseln",
+    "countryID": "GB",
+    "countryName": "United Kingdom"
+  },
+  {
+    "id": "LYR",
+    "lat": "78.2200281",
+    "lon": "15.68847656",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Longyearbyen",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "MCM",
+    "lat": "43.73972",
+    "lon": "7.42722",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Monte Carlo",
+    "countryID": "MC",
+    "countryName": "Monaco"
+  },
+  {
+    "id": "MCT",
+    "lat": "23.6064",
+    "lon": "58.5881",
+    "regions": [
+      "greateasterncruises",
+      "persian-gulf",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Muscat",
+    "countryID": "OM",
+    "countryName": "Oman"
+  },
+  {
+    "id": "MCZ",
+    "lat": "-9.64984",
+    "lon": "-35.70894",
+    "regions": [
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Maceio",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "MEL",
+    "lat": "-37.8141",
+    "lon": "144.96327",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Melbourne",
+    "countryID": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "id": "MES",
+    "lat": "38.19381",
+    "lon": "15.55401",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Messina",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "MJH",
+    "lat": "18.71625",
+    "lon": "-87.7079",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Costa Maya",
+    "countryID": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "MKZ",
+    "lat": "2.20568",
+    "lon": "102.25615",
+    "regions": [
+      "pacific-asia",
+      "round-world"
+    ],
+    "name": "Malakka",
+    "countryID": "MY",
+    "countryName": "Malaysia"
+  },
+  {
+    "id": "MLE",
+    "lat": "4.17549",
+    "lon": "73.50934",
+    "regions": [
+      "persian-gulf"
+    ],
+    "name": "MalÃ©",
+    "countryID": "MV",
+    "countryName": "Maldives"
+  },
+  {
+    "id": "MLT",
+    "lat": "35.895",
+    "lon": "14.4975",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "La Valletta",
+    "countryID": "MT",
+    "countryName": "Malta"
+  },
+  {
+    "id": "MNL",
+    "lat": "14.59951",
+    "lon": "120.98421",
+    "regions": [
+      "pacific-asia"
+    ],
+    "name": "Manila",
+    "countryID": "PH",
+    "countryName": "Philippines"
+  },
+  {
+    "id": "MOD",
+    "lat": "62.73613",
+    "lon": "7.16475",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Molde",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "MOZ",
+    "lat": "-17.53884",
+    "lon": "-149.82952",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Mo'orea",
+    "countryID": "PF",
+    "countryName": "French Polynesia"
+  },
+  {
+    "id": "MRI",
+    "lat": "36.85051",
+    "lon": "28.273",
+    "regions": [
+      "greateasterncruises",
+      "transatlantic"
+    ],
+    "name": "Marmaris",
+    "countryID": "TR",
+    "countryName": "Turkey"
+  },
+  {
+    "id": "MRS",
+    "lat": "43.33391856",
+    "lon": "5.347938538",
+    "regions": [
+      "mediterranean",
+      "north-europe",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Marseille",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "MRU",
+    "lat": "-20.16527",
+    "lon": "57.49638",
+    "regions": [
+      "greateasterncruises",
+      "indian-ocean"
+    ],
+    "name": "Port Louis",
+    "countryID": "MU",
+    "countryName": "Mauritius"
+  },
+  {
+    "id": "MVD",
+    "lat": "-34.904252",
+    "lon": "-56.214166",
+    "regions": [
+      "mediterranean",
+      "round-world",
+      "south-america",
+      "transatlantic"
+    ],
+    "name": "Montevideo",
+    "countryID": "UY",
+    "countryName": "Uruguay"
+  },
+  {
+    "id": "NAP",
+    "lat": "40.8397",
+    "lon": "14.2527",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Naples",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "NAS",
+    "lat": "25.08",
+    "lon": "-77.345",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Nassau",
+    "countryID": "BS",
+    "countryName": "Bahamas"
+  },
+  {
+    "id": "NAU",
+    "lat": "37.569",
+    "lon": "22.8",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Nafplio",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "NHA",
+    "lat": "12.23879",
+    "lon": "109.19674",
+    "regions": [
+      "greateasterncruises"
+    ],
+    "name": "Nha Trang",
+    "countryID": "VN",
+    "countryName": "Viet Nam"
+  },
+  {
+    "id": "NOS",
+    "lat": "-13.311834",
+    "lon": "48.2659658",
+    "regions": [
+      "indian-ocean"
+    ],
+    "name": "Nosy Be",
+    "countryID": "MG",
+    "countryName": "Madagascar"
+  },
+  {
+    "id": "NUA",
+    "lat": "-21.13333",
+    "lon": "-175.2",
+    "regions": [
+      "round-world"
+    ],
+    "name": "NukuÂ´alofa",
+    "countryID": "TO",
+    "countryName": "Tonga"
+  },
+  {
+    "id": "NVK",
+    "lat": "68.43849",
+    "lon": "17.42726",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Narvik",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "OCJ",
+    "lat": "18.413",
+    "lon": "-77.10997",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Ocho Rios",
+    "countryID": "JM",
+    "countryName": "Jamaica"
+  },
+  {
+    "id": "OHA",
+    "lat": "26.21231",
+    "lon": "127.67915",
+    "regions": [
+      "greateasterncruises",
+      "pacific-asia"
+    ],
+    "name": "Naha",
+    "countryID": "JP",
+    "countryName": "Japan"
+  },
+  {
+    "id": "OLB",
+    "lat": "40.92285207",
+    "lon": "9.494247437",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Olbia / Sardinien",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "OLD",
+    "lat": "61.8338",
+    "lon": "6.8093",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Olden",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "OSL",
+    "lat": "59.90567",
+    "lon": "10.71497",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Oslo",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "PAL",
+    "lat": "41.8505",
+    "lon": "3.12981",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Palamos",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "PCH",
+    "lat": "-45.46321",
+    "lon": "-72.81912",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Puerto Chacabuco",
+    "countryID": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "id": "PDP",
+    "lat": "-34.961833",
+    "lon": "-54.950497",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Punta del Este",
+    "countryID": "UY",
+    "countryName": "Uruguay"
+  },
+  {
+    "id": "PEN",
+    "lat": "5.386624",
+    "lon": "100.365236",
+    "regions": [
+      "pacific-asia"
+    ],
+    "name": "Penang",
+    "countryID": "MY",
+    "countryName": "Malaysia"
+  },
+  {
+    "id": "PER",
+    "lat": "-31.953",
+    "lon": "115.85746",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Perth",
+    "countryID": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "id": "PFE",
+    "lat": "42.7974446",
+    "lon": "10.3266907",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Portoferraio",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "PHG",
+    "lat": "3.00508",
+    "lon": "101.40859",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Port Klang",
+    "countryID": "MY",
+    "countryName": "Malaysia"
+  },
+  {
+    "id": "PIE",
+    "lat": "59.92251",
+    "lon": "30.23575",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "St. Petersburg",
+    "countryID": "RU",
+    "countryName": "Russian Federation"
+  },
+  {
+    "id": "PMC",
+    "lat": "-41.4717",
+    "lon": "-72.93689",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Puerto Montt",
+    "countryID": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "id": "PMH",
+    "lat": "39.88732",
+    "lon": "4.25961",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Port Mahon",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "PMI",
+    "lat": "39.5694",
+    "lon": "2.65002",
+    "regions": [
+      "mediterranean",
+      "north-europe"
+    ],
+    "name": "Mallorca",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "PMO",
+    "lat": "38.1156",
+    "lon": "13.3611",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Palermo/Sizilien",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "PMY",
+    "lat": "-42.766667",
+    "lon": "-65.033333",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Puerto Madryn",
+    "countryID": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "id": "PPG",
+    "lat": "-14.27944",
+    "lon": "-170.70055",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Pago Pago",
+    "countryID": "AS",
+    "countryName": "American Samoa"
+  },
+  {
+    "id": "PPS",
+    "lat": "9.96721",
+    "lon": "118.7855",
+    "regions": [
+      "pacific-asia"
+    ],
+    "name": "Puerto Princesa Palawan",
+    "countryID": "PH",
+    "countryName": "Philippines"
+  },
+  {
+    "id": "PPT",
+    "lat": "-17.535",
+    "lon": "-149.5696",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Papeete/Tahiti",
+    "countryID": "PF",
+    "countryName": "French Polynesia"
+  },
+  {
+    "id": "PRP",
+    "lat": "41.67389",
+    "lon": "8.90175",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Propriano",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "PRQ",
+    "lat": "13.92056",
+    "lon": "-90.78778",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Puerto San JÃ³se",
+    "countryID": "GT",
+    "countryName": "Guatemala"
+  },
+  {
+    "id": "PTB",
+    "lat": "-23.70177",
+    "lon": "-46.77872",
+    "regions": [],
+    "name": "Porto Belo",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "PTC",
+    "lat": "9.94006",
+    "lon": "-84.72764",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Caldera",
+    "countryID": "CR",
+    "countryName": "Costa Rica"
+  },
+  {
+    "id": "PTL",
+    "lat": "43.66",
+    "lon": "-70.256",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Portland",
+    "countryID": "US",
+    "countryName": "United States"
+  },
+  {
+    "id": "PTP",
+    "lat": "16.2363",
+    "lon": "-61.53",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Point a Pitre",
+    "countryID": "GP",
+    "countryName": "Guadeloupe"
+  },
+  {
+    "id": "PTS",
+    "lat": "31.26338",
+    "lon": "32.31425",
+    "regions": [
+      "greateasterncruises"
+    ],
+    "name": "Port Said",
+    "countryID": "EG",
+    "countryName": "Egypt"
+  },
+  {
+    "id": "PUQ",
+    "lat": "-53.15",
+    "lon": "-70.916667",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Punta Arenas",
+    "countryID": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "id": "PVR",
+    "lat": "20.6534",
+    "lon": "-105.22533",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Puerto Vallarta",
+    "countryID": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "id": "RAV",
+    "lat": "44.41906881",
+    "lon": "12.19070435",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Ravenna",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "REC",
+    "lat": "-8.063553",
+    "lon": "-34.870901",
+    "regions": [
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Recife",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "REG",
+    "lat": "38.1113",
+    "lon": "15.64729",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Reggio Calabria",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "REK",
+    "lat": "64.15209",
+    "lon": "-21.93915",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Reykjavik",
+    "countryID": "IS",
+    "countryName": "Iceland"
+  },
+  {
+    "id": "RHO",
+    "lat": "36.44755",
+    "lon": "28.2332",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Rhodos",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "RIO",
+    "lat": "-22.894941",
+    "lon": "-43.182374",
+    "regions": [
+      "mediterranean",
+      "round-world",
+      "south-america",
+      "transatlantic"
+    ],
+    "name": "Rio de Janeiro",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "RTB",
+    "lat": "16.32396",
+    "lon": "-86.53501",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Roatan",
+    "countryID": "HN",
+    "countryName": "Honduras"
+  },
+  {
+    "id": "RUN",
+    "lat": "-20.88205",
+    "lon": "55.45067",
+    "regions": [
+      "greateasterncruises",
+      "indian-ocean",
+      "mediterranean"
+    ],
+    "name": "La RÃ©union",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "RYX",
+    "lat": "56.9496",
+    "lon": "24.1052",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Riga",
+    "countryID": "LV",
+    "countryName": "Latvia"
+  },
+  {
+    "id": "SAF",
+    "lat": "26.735",
+    "lon": "33.948",
+    "regions": [
+      "greateasterncruises"
+    ],
+    "name": "Luxor / Safaga",
+    "countryID": "EG",
+    "countryName": "Egypt"
+  },
+  {
+    "id": "SAL",
+    "lat": "40.68244",
+    "lon": "14.76809",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Salerno",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "SAN",
+    "lat": "32.71532",
+    "lon": "-117.15727",
+    "regions": [
+      "round-world"
+    ],
+    "name": "San Diego",
+    "countryID": "US",
+    "countryName": "United States"
+  },
+  {
+    "id": "SAT",
+    "lat": "43.45708",
+    "lon": "-3.80544",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Santander",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "SCA",
+    "lat": "11.183056",
+    "lon": "-60.738333",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Scarborough",
+    "countryID": "TT",
+    "countryName": "Trinidad And Tobago"
+  },
+  {
+    "id": "SDQ",
+    "lat": "18.46837",
+    "lon": "-69.883411",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "Santo Domingo",
+    "countryID": "DO",
+    "countryName": "Dominican Republic"
+  },
+  {
+    "id": "SEY",
+    "lat": "65.25984",
+    "lon": "-14.01011",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Seydisfjord",
+    "countryID": "IS",
+    "countryName": "Iceland"
+  },
+  {
+    "id": "SEZ",
+    "lat": "-4.68266",
+    "lon": "55.48039",
+    "regions": [
+      "greateasterncruises",
+      "indian-ocean",
+      "mediterranean"
+    ],
+    "name": "Mahe",
+    "countryID": "SC",
+    "countryName": "Seychelles"
+  },
+  {
+    "id": "SFO",
+    "lat": "37.77492",
+    "lon": "-122.41941",
+    "regions": [
+      "round-world"
+    ],
+    "name": "San Francisco",
+    "countryID": "US",
+    "countryName": "United States"
+  },
+  {
+    "id": "SGN",
+    "lat": "10.791005",
+    "lon": "106.724303",
+    "regions": [
+      "greateasterncruises",
+      "pacific-asia"
+    ],
+    "name": "Ho Chi Minh City / Phu My",
+    "countryID": "VN",
+    "countryName": "Viet Nam"
+  },
+  {
+    "id": "SHA",
+    "lat": "121.28",
+    "lon": "31.14",
+    "regions": [
+      "greateasterncruises"
+    ],
+    "name": "Shanghai",
+    "countryID": "CN",
+    "countryName": "China"
+  },
+  {
+    "id": "SIN",
+    "lat": "1.285722",
+    "lon": "103.854178",
+    "regions": [
+      "greateasterncruises",
+      "pacific-asia",
+      "round-world"
+    ],
+    "name": "Singapur",
+    "countryID": "SG",
+    "countryName": "Singapore"
+  },
+  {
+    "id": "SJU",
+    "lat": "18.479609",
+    "lon": "-66.104851",
+    "regions": [],
+    "name": "San Juan",
+    "countryID": "PR",
+    "countryName": "Puerto Rico"
+  },
+  {
+    "id": "SKB",
+    "lat": "17.34337",
+    "lon": "-62.7559",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "St. Kitts",
+    "countryID": "KN",
+    "countryName": "Saint Kitts And Nevis"
+  },
+  {
+    "id": "SKG",
+    "lat": "40.642523",
+    "lon": "22.944403",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Thessaloniki",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "SLL",
+    "lat": "16.939634",
+    "lon": "54.000399",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Salalah",
+    "countryID": "OM",
+    "countryName": "Oman"
+  },
+  {
+    "id": "SLU",
+    "lat": "13.991",
+    "lon": "-60.978",
+    "regions": [
+      "caribbean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Port Castries",
+    "countryID": "LC",
+    "countryName": "Saint Lucia"
+  },
+  {
+    "id": "SLX",
+    "lat": "68.69588",
+    "lon": "15.40511",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Sortland",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "SPU",
+    "lat": "43.5081",
+    "lon": "16.4401",
+    "regions": [
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Split",
+    "countryID": "HR",
+    "countryName": "Croatia"
+  },
+  {
+    "id": "SSA",
+    "lat": "-12.970105",
+    "lon": "-38.513791",
+    "regions": [
+      "mediterranean",
+      "round-world",
+      "south-america",
+      "transatlantic"
+    ],
+    "name": "Salvador",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "SSH",
+    "lat": "27.8545",
+    "lon": "34.2788",
+    "regions": [
+      "greateasterncruises",
+      "round-world"
+    ],
+    "name": "Sharm El-Sheikh",
+    "countryID": "EG",
+    "countryName": "Egypt"
+  },
+  {
+    "id": "SSZ",
+    "lat": "-23.987694",
+    "lon": "-46.294251",
+    "regions": [
+      "south-america",
+      "transatlantic"
+    ],
+    "name": "Santos",
+    "countryID": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "id": "STO",
+    "lat": "59.3445",
+    "lon": "18.128",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Stockholm",
+    "countryID": "SE",
+    "countryName": "Sweden"
+  },
+  {
+    "id": "STT",
+    "lat": "18.33536",
+    "lon": "-64.9534",
+    "regions": [],
+    "name": "St. Thomas",
+    "countryID": "VI",
+    "countryName": "Virgin Islands (US)"
+  },
+  {
+    "id": "SUD",
+    "lat": "16.912311",
+    "lon": "-24.947205",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Sao Vicente",
+    "countryID": "CV",
+    "countryName": "Cape Verde"
+  },
+  {
+    "id": "SUV",
+    "lat": "-18.1416",
+    "lon": "178.4419",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Suva",
+    "countryID": "FJ",
+    "countryName": "Fiji"
+  },
+  {
+    "id": "SVG",
+    "lat": "58.91278",
+    "lon": "5.74465",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Stavanger / Lysefjord",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "SVN",
+    "lat": "44.29756",
+    "lon": "8.4645",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "north-europe",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Savona",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "SXM",
+    "lat": "18.0303",
+    "lon": "-63.044",
+    "regions": [
+      "caribbean",
+      "transatlantic"
+    ],
+    "name": "St.Maarten",
+    "countryID": "SX",
+    "countryName": "Sint Maarten"
+  },
+  {
+    "id": "SYD",
+    "lat": "46.1495",
+    "lon": "-60.19897",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Sydney",
+    "countryID": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "id": "SYX",
+    "lat": "18.25285",
+    "lon": "109.51190",
+    "regions": [
+      "pacific-asia"
+    ],
+    "name": "Sanya",
+    "countryID": "CN",
+    "countryName": "China"
+  },
+  {
+    "id": "TAU",
+    "lat": "-37.16512",
+    "lon": "176.16512",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Tauranga",
+    "countryID": "NZ",
+    "countryName": "New Zealand"
+  },
+  {
+    "id": "TCI",
+    "lat": "28.4698",
+    "lon": "-16.254",
+    "regions": [
+      "mediterranean",
+      "round-world",
+      "transatlantic"
+    ],
+    "name": "Teneriffa",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "THO",
+    "lat": "62.0177",
+    "lon": "-6.7719",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Faroe Inseln / Torshavn",
+    "countryID": "DK",
+    "countryName": "Denmark"
+  },
+  {
+    "id": "TLL",
+    "lat": "59.45907",
+    "lon": "24.72666",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Tallinn",
+    "countryID": "EE",
+    "countryName": "Estonia"
+  },
+  {
+    "id": "TLN",
+    "lat": "43.12203615",
+    "lon": "5.936737061",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Toulon",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "TMM",
+    "lat": "-18.15",
+    "lon": "49.41666",
+    "regions": [
+      "indian-ocean"
+    ],
+    "name": "Tamatave",
+    "countryID": "MG",
+    "countryName": "Madagascar"
+  },
+  {
+    "id": "TNG",
+    "lat": "35.7879",
+    "lon": "-5.8",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Tangier",
+    "countryID": "MA",
+    "countryName": "Morocco"
+  },
+  {
+    "id": "TOS",
+    "lat": "69.6704495",
+    "lon": "18.95896912",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Tromsoe",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "TPS",
+    "lat": "38.01761",
+    "lon": "12.5372",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Trapani",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "TRD",
+    "lat": "63.44",
+    "lon": "10.4",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "Trondheim",
+    "countryID": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "id": "TRG",
+    "lat": "41.11888",
+    "lon": "1.24449",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Tarragona",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "TRS",
+    "lat": "45.653888",
+    "lon": "13.777828",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Trieste",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "TUN",
+    "lat": "36.80083",
+    "lon": "10.18",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Tunis",
+    "countryID": "TN",
+    "countryName": "Tunisia"
+  },
+  {
+    "id": "USH",
+    "lat": "-54.8",
+    "lon": "-68.3",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Ushuaia ",
+    "countryID": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "id": "VCE",
+    "lat": "45.46590974",
+    "lon": "12.27172852",
+    "regions": [
+      "greateasterncruises",
+      "mediterranean",
+      "transatlantic"
+    ],
+    "name": "Venedig",
+    "countryID": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "id": "VGO",
+    "lat": "42.2415",
+    "lon": "-8.7175",
+    "regions": [
+      "mediterranean",
+      "north-europe",
+      "transatlantic"
+    ],
+    "name": "Vigo",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "VIL",
+    "lat": "43.70397",
+    "lon": "7.31110",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Villefranche",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "VLC",
+    "lat": "39.4766667",
+    "lon": "-0.374444",
+    "regions": [
+      "mediterranean",
+      "north-europe"
+    ],
+    "name": "Valencia",
+    "countryID": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "id": "VOL",
+    "lat": "39.35948",
+    "lon": "22.94478",
+    "regions": [
+      "mediterranean"
+    ],
+    "name": "Volos",
+    "countryID": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "id": "VPS",
+    "lat": "-33.04564",
+    "lon": "-71.6203",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Valparaiso",
+    "countryID": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "id": "WAR",
+    "lat": "54.175278",
+    "lon": "12.08833",
+    "regions": [
+      "mediterranean",
+      "north-europe"
+    ],
+    "name": "WarnemÃ¼nde",
+    "countryID": "DE",
+    "countryName": "Germany"
+  },
+  {
+    "id": "WLG",
+    "lat": "-41.28646",
+    "lon": "174.77624",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Wellington",
+    "countryID": "NZ",
+    "countryName": "New Zealand"
+  },
+  {
+    "id": "WTG",
+    "lat": "-35.27059",
+    "lon": "174.07965",
+    "regions": [
+      "round-world"
+    ],
+    "name": "Bay Of Icelands",
+    "countryID": "NZ",
+    "countryName": "New Zealand"
+  },
+  {
+    "id": "YNE",
+    "lat": "43.10297",
+    "lon": "5.87821",
+    "regions": [
+      "mediterranean",
+      "north-europe"
+    ],
+    "name": "La Seyne Sur Mer",
+    "countryID": "FR",
+    "countryName": "France"
+  },
+  {
+    "id": "ZEE",
+    "lat": "51.32889547",
+    "lon": "3.190155029",
+    "regions": [
+      "north-europe"
+    ],
+    "name": "SeebrÃ¼gge",
+    "countryID": "BE",
+    "countryName": "Belgium"
+  },
+  {
+    "id": "VIC",
+    "regions": null,
+    "name": null,
+    "countryID": null,
+    "countryName": null
+  },
+  {
+    "id": "BDS",
+    "regions": null,
+    "name": null,
+    "countryID": null,
+    "countryName": null
+  },
+  {
+    "id": "SRA",
+    "regions": null,
+    "name": null,
+    "countryID": null,
+    "countryName": null
+  }
+]

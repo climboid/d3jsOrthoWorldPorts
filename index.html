@@ -33,10 +33,11 @@
     window.onresize = resize;
 
     var width = window.innerWidth,
-          height = window.innerHeight;
+      height = window.innerHeight,
+      originalPorts;
 
     var projection = d3.geo.orthographic()
-        .scale(700)
+        .scale(1000)
         .translate([width/2, height/2])
         .clipAngle(90);
 
@@ -80,7 +81,10 @@
           .await(ready);
 
       function ready(error, world, names, ports) {
+
         if (error) throw error;
+
+        originalPorts = ports;
 
 
         var globe = {type: "Sphere"},
@@ -151,6 +155,8 @@
         console.log(projection);
 
         console.log(projection.invert([x,y]));
+
+        console.log(originalPorts)
 
         
       });
